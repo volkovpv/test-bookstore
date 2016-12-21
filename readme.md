@@ -6,7 +6,7 @@
 - установить зависимости `npm install`
 - в конфигах (/config) прописать адреса серверов для разного окружения и названия баз данных
 - запуск из консоли `npm start`
-- для запуска в ide использовать настройку ![для ide](https://raw.githubusercontent.com/volkovpv/test-bookstore/develop/img/a38f3503a0.jpg "для ide")  
+- для запуска в ide использовать настройку ![для ide](https://raw.githubusercontent.com/volkovpv/test-bookstore/develop/img/e38c0de0ca.jpg "для ide")  
 
 ## Запуск тестов  
 - глобально установить `mocha`  
