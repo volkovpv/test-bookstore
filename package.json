@@ -4,7 +4,8 @@
   "description": "write test mocha with chai",
   "main": "server.js",
   "scripts": {
-    "test": "mocha --timeout 10000"
+    "start": "SET NODE_ENV=dev && node server.js",
+    "test": "mocha --timeout 10000 __test__/BDD/*.js"
   },
   "repository": {
     "type": "git",
